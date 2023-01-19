@@ -1,0 +1,28 @@
+{
+    "name": "Amir Task App",
+    "short_name": "Task App",
+    "icons": [
+      {
+        "src": "assets/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "assets/icon-384.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#fdbd39",
+    "background_color": "#fdbd39",
+    "start_url": "/amir-task/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
+  
